@@ -125,7 +125,7 @@ i {
   padding-top: 10px;
   
 }
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
   .contactUsHeader {
      height: 143.48px;
     }
