@@ -18,7 +18,7 @@ body {
 .contactUsHeader {
   /* Optional property using a hosted image */
   /* background: linear-gradient( #04172a80, #04172a80 ), url(https://bit.ly/3icP4wo) no-repeat; */
-  background: linear-gradient( #04172a80, #04172a80 ), url('../../img/contact-us-desktop-splash.svg') no-repeat;
+  background: linear-gradient( #04172a80, #04172a80 ), url('../img/contact-us-desktop-splash.svg') no-repeat;
   background-size: cover;
   height: 296.89px;
   text-align: center;
@@ -164,7 +164,7 @@ hr.titleHr {
   
   position: relative;
   
-  right:7.5rem;
+  right:7.9rem;
 
 
 
@@ -218,6 +218,15 @@ box-sizing: border-box;
  @media (max-width: 350px) {
    .borderDesign {
      width: 295px;
+   }
+    input[type=text],
+     input[type=tel],
+     input[type=email]{
+  border: 0.763199px solid rgba(4, 23, 42, 0.7);
+box-sizing: border-box;
+border-radius: 3.816px;
+height:36.63px;
+width: 206px;
    }
  }
  
