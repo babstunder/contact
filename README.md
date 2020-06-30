@@ -120,6 +120,7 @@
       </form>
     </div>
   </div>
+  <!--
   <footer class="footer">
       <div class="footer-li">
         <div class="left">
@@ -161,7 +162,8 @@
         </ul>
       </div>
     </footer>
-     <script src="js/jquery.js"></script>
+  -->
+     <script src="js/bootstrap-js/jquery.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/popper.js"></script>
     <script src="js/navBar.js"></script>
